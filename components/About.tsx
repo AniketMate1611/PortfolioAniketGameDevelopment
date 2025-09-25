@@ -61,7 +61,7 @@ export default function SkillsSection() {
         {skillCard(FaUnity, "Unity", "text-gray-400")}
         {skillCard(() =>  <Image src="/unrealeng.svg" alt="Unreal Logo" width={50} height={50} />, "Unreal Engine", "text-blue-600")}
         {skillCard(SiAutodeskmaya, "Maya", "text-sky-400")}
-        {skillCard(() =>  <Image src="/sPainter.svg" alt="Unreal Logo" width={50} height={50} />, "Substance Painter", "text-red-500")}
+        {skillCard(() =>  <Image src="/substance.png" alt="Substance Logo" width={50} height={50} />, "Substance Painter", "text-red-500")}
         {skillCard(SiAdobephotoshop, "Photoshop", "text-blue-500")}
         {skillCard(SiGithub, "GitHub", "text-white-500")}
 
